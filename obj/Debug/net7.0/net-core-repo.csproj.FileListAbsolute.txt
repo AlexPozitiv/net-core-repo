@@ -1,0 +1,15 @@
+C:\net-core-repo\bin\Debug\net7.0\net-core-repo.exe
+C:\net-core-repo\bin\Debug\net7.0\net-core-repo.deps.json
+C:\net-core-repo\bin\Debug\net7.0\net-core-repo.runtimeconfig.json
+C:\net-core-repo\bin\Debug\net7.0\net-core-repo.dll
+C:\net-core-repo\bin\Debug\net7.0\net-core-repo.pdb
+C:\net-core-repo\obj\Debug\net7.0\net-core-repo.csproj.AssemblyReference.cache
+C:\net-core-repo\obj\Debug\net7.0\net-core-repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\net-core-repo\obj\Debug\net7.0\net-core-repo.AssemblyInfoInputs.cache
+C:\net-core-repo\obj\Debug\net7.0\net-core-repo.AssemblyInfo.cs
+C:\net-core-repo\obj\Debug\net7.0\net-core-repo.csproj.CoreCompileInputs.cache
+C:\net-core-repo\obj\Debug\net7.0\net-core-repo.dll
+C:\net-core-repo\obj\Debug\net7.0\refint\net-core-repo.dll
+C:\net-core-repo\obj\Debug\net7.0\net-core-repo.pdb
+C:\net-core-repo\obj\Debug\net7.0\net-core-repo.genruntimeconfig.cache
+C:\net-core-repo\obj\Debug\net7.0\ref\net-core-repo.dll
